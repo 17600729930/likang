@@ -41,7 +41,7 @@ e475afc HEAD@{3}: commit: add distributed
 eaadf4e HEAD@{4}: commit (initial): wrote a readme file
 
 添加远程库
-登录GitHub找到右上角，点击下好，选中 New repository
+登录GitHub找到右上角，点击加号，选中 New repository
 在 Repository name 填入 learngit ---> "learngit"本地文件夹名字，其他保持默认设置，
 点击“Create repository”按钮，就成功地创建了一个新的Git仓库：
 
