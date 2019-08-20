@@ -50,3 +50,7 @@ eaadf4e HEAD@{4}: commit (initial): wrote a readme file
 从现在起，只要本地作了提交，就可以通过命令：
 
 git push origin master ---> 可能可以缩写为 git push
+
+往后每次提交就可以如上第5、6步骤，最后再git push一下就ok了
+
+远程克隆：git clone git分支地址
