@@ -54,3 +54,14 @@ git push origin master ---> 可能可以缩写为 git push
 往后每次提交就可以如上第5、6步骤，最后再git push一下就ok了
 
 远程克隆：git clone git分支地址
+
+$ git --help                                      # 帮助命令
+
+ 
+
+$ git pull origin master                    # 将远程仓库里面的项目拉下来
+
+$ dir                                                # 查看有哪些文件夹
+
+$ git rm -r --cached .idea              # 删除.idea文件夹
+$ git commit -m '删除.idea'        # 提交,添加操作说明
